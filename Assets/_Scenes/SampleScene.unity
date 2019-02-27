@@ -181,7 +181,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: fbabd1ac0e9782d47834567f0448fbb2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -260,7 +260,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: fbabd1ac0e9782d47834567f0448fbb2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -284,7 +284,7 @@ GameObject:
   - component: {fileID: 408070486}
   m_Layer: 0
   m_Name: Crate
-  m_TagString: Untagged
+  m_TagString: Barrier
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -327,7 +327,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: d6bbd113f14c0894c8f88e2995c2c475, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -344,12 +344,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 408070483}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.76, y: -0.985, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.09511018, y: -0.86241776, z: 0.1605556}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 1332119073}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &408070486
 BoxCollider2D:
@@ -453,7 +453,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9278d89660957ee42b18863c90b0b1a3, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -628,7 +628,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: fbabd1ac0e9782d47834567f0448fbb2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -702,7 +702,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &906405665
 GameObject:
@@ -759,7 +759,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3b7d3237fe3b1da4fb375353932db1bb, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -797,7 +797,7 @@ GameObject:
   - component: {fileID: 938091878}
   m_Layer: 0
   m_Name: Crate
-  m_TagString: Untagged
+  m_TagString: Barrier
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -887,7 +887,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: d6bbd113f14c0894c8f88e2995c2c475, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -904,12 +904,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 938091877}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.76, y: -0.215, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.09511018, y: -0.09241773, z: 0.1605556}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 1332119073}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1051701292
 GameObject:
@@ -1146,7 +1146,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: fbabd1ac0e9782d47834567f0448fbb2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1319,6 +1319,39 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!1 &1332119072
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1332119073}
+  m_Layer: 0
+  m_Name: Barrier
+  m_TagString: Barrier
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1332119073
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1332119072}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.6648898, y: -0.12258227, z: -0.1605556}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 408070485}
+  - {fileID: 938091881}
+  - {fileID: 1837470631}
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1449795954
 GameObject:
   m_ObjectHideFlags: 0
@@ -1655,7 +1688,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 4637b43597a58a240b22c4922cbaf60c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1693,7 +1726,7 @@ GameObject:
   - component: {fileID: 1837470628}
   m_Layer: 0
   m_Name: Crate
-  m_TagString: Untagged
+  m_TagString: Barrier
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1783,7 +1816,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: d6bbd113f14c0894c8f88e2995c2c475, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1800,12 +1833,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1837470627}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.76, y: 0.555, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.09511018, y: 0.67758226, z: 0.1605556}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 1332119073}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1913495546
 GameObject:
@@ -1876,7 +1909,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300000, guid: fbabd1ac0e9782d47834567f0448fbb2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.827451, g: 0.90588236, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2149,7 +2182,7 @@ RectTransform:
   - {fileID: 1449795955}
   - {fileID: 1567621529}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2375,9 +2408,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: fa703f7d97d735e48936411dc5bb730d, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2395,8 +2428,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2038608707}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.15674, y: -1.8346341, z: 0.06640625}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -6.11, y: -1.83, z: 0.06640625}
+  m_LocalScale: {x: 1, y: 1.104, z: 1}
   m_Children: []
   m_Father: {fileID: 1573387782}
   m_RootOrder: 4
