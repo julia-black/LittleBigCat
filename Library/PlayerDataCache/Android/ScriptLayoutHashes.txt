@@ -1,7 +1,8 @@
 Android
 PlayerPath?
-C:/Users/Julia/Documents/KittensAdventure/little-big-cat-1.0.3.apk
+C:/Users/Julia/Documents/KittensAdventure/little-big-cat-1.0.4.apk
 SceneListBegin?
+Assets/_Scenes/MainMenuScene.unity
 Assets/_Scenes/SampleScene.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -114,6 +115,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.MenuController
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 6e5d0bd868134b0774665382e1338efc Assembly-CSharp.dll:.PlayerController
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
